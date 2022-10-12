@@ -11,14 +11,14 @@ STEP 4:  ensure that the zip file(emcrypted) and the passwords.txt are
          
 STEP 5:  make sure to change the name of you file that contains the passwords to- "passwords.txt"
 STEP 6:  the passwords must be one per line, eg-
-                                                 {
-                                                 
+                                                
+                                                
                                                    'admin'
                                                    'xyz'
                                                    'pass'
                                                    '....'
                                                    
-                                                 } 
+                                         
                                                    
                                                    
 STEP 7: change the name of your zip file to- "secret.zip"
